@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Micro_Card.PcbDoc]
+   Generated File[Micro_Card.GTO]
+   Generated File[Micro_Card.GTS]
+   Generated File[Micro_Card.GTL]
+   Generated File[Micro_Card.GBL]
+   Generated File[Micro_Card.GBS]
+   Generated File[Micro_Card.GBO]
+   Generated File[Micro_Card.GM1]
+   Generated File[Micro_Card.RUL]
+   Generated File[Micro_Card.EXTREP]
+   Generated File[Micro_Card.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 9:58:25 PM On 12/7/2018
